@@ -1,0 +1,31 @@
+header .head{
+    background-color: green;
+    height: 230px;
+    
+}
+header .head h1{
+    margin-left: 500px;
+    padding-top: 125px;
+}
+
+main .navbar{
+    background-color: white;
+    height: 50px;
+    }
+    
+    main .navbar ul{
+        list-style: none;
+        margin-left: 500px;
+        padding-top: 15px;
+    }
+    
+    main .navbar ul li{
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 22px;
+    }
+    
+    main .navbar ul li a{
+    text-decoration: none;
+    }
+    
